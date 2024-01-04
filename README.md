@@ -1,5 +1,6 @@
 # Boas-vindas ao repositório do Traduzo
 
+
 ## Requisitos
 
 ### 1 - MODEL - Instanciando idiomas
